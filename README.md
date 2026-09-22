@@ -13,64 +13,48 @@
 
 ---
 
-**Projects**
+**Data Engineering**
 
-<table>
-<tr>
-<th width="33%">AI</th>
-<th width="33%">Data Engineering</th>
-<th width="33%">Data Science & Analytics</th>
-</tr>
-<tr>
-<td valign="top" width="33%">
+| Project | Description |
+| --- | --- |
+| [de-ethereum-anomaly-pipeline](https://github.com/FarnooshMemari/de-ethereum-anomaly-pipeline) | Ethereum transaction anomaly detection with an unsupervised ML batch pipeline on AWS |
+| [de-iot-kafka-streaming](https://github.com/FarnooshMemari/de-iot-kafka-streaming) | Real-time IoT sensor monitoring with Kafka, PostgreSQL, and Streamlit |
+| [de-airflow-pipeline](https://github.com/FarnooshMemari/de-airflow-pipeline) | Customers–orders ETL pipeline with Airflow, Postgres, and PySpark |
+| [de-pyspark-fire-calls](https://github.com/FarnooshMemari/de-pyspark-fire-calls) | PySpark performance tuning on SF Fire Dept. calls (Databricks) |
+| [de-postgres-devcontainer](https://github.com/FarnooshMemari/de-postgres-devcontainer) | PostgreSQL queries on a restaurant database in a Dev Container |
+| [de-sqlite-university-rankings](https://github.com/FarnooshMemari/de-sqlite-university-rankings) | SQLite CRUD and analysis on global university rankings |
 
-<a href="https://github.com/FarnooshMemari/ai-job-hunting-pipeline"><b>ai-job-hunting-pipeline</b></a><br><sub>AI pipeline that finds, ranks, and personalizes job matches</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ai-xai-decathlon"><b>ai-xai-decathlon</b></a><br><sub>Explainable-AI lab comparing LIME, SHAP, Grad-CAM and more</sub>
+**Data Science & Analytics**
 
-</td>
-<td valign="top" width="33%">
+| Project | Description |
+| --- | --- |
+| [ds-hospital-mergers-did](https://github.com/FarnooshMemari/ds-hospital-mergers-did) | Hospital mergers and costs: a staggered difference-in-differences study |
+| [ds-opioid-policy-evaluation](https://github.com/FarnooshMemari/ds-opioid-policy-evaluation) | Evaluating Florida and Washington opioid prescription policies |
+| [ds-credit-risk-vasicek](https://github.com/FarnooshMemari/ds-credit-risk-vasicek) | Credit card portfolio risk with the Vasicek model and Monte Carlo simulation |
+| [ds-gold-silver-spillover](https://github.com/FarnooshMemari/ds-gold-silver-spillover) | Do big silver (SLV) moves spill over into gold (GLD)? 2015–2025 |
 
-<a href="https://github.com/FarnooshMemari/de-ethereum-anomaly-pipeline"><b>de-ethereum-anomaly-pipeline</b></a><br><sub>Ethereum anomaly detection batch pipeline on AWS</sub><br><br>
-<a href="https://github.com/FarnooshMemari/de-iot-kafka-streaming"><b>de-iot-kafka-streaming</b></a><br><sub>Real-time IoT monitoring with Kafka, PostgreSQL, Streamlit</sub><br><br>
-<a href="https://github.com/FarnooshMemari/de-airflow-pipeline"><b>de-airflow-pipeline</b></a><br><sub>Customers–orders ETL with Airflow, Postgres, PySpark</sub><br><br>
-<a href="https://github.com/FarnooshMemari/de-pyspark-fire-calls"><b>de-pyspark-fire-calls</b></a><br><sub>PySpark performance tuning on SF Fire Dept. calls</sub><br><br>
-<a href="https://github.com/FarnooshMemari/de-postgres-devcontainer"><b>de-postgres-devcontainer</b></a><br><sub>PostgreSQL queries in a Dev Container</sub><br><br>
-<a href="https://github.com/FarnooshMemari/de-sqlite-university-rankings"><b>de-sqlite-university-rankings</b></a><br><sub>SQLite CRUD and analysis on university rankings</sub>
+**AI**
 
-</td>
-<td valign="top" width="33%">
+| Project | Description |
+| --- | --- |
+| [ai-job-hunting-pipeline](https://github.com/FarnooshMemari/ai-job-hunting-pipeline) | AI pipeline that discovers, ranks, and personalizes job opportunities by candidate–job fit |
+| [ai-xai-decathlon](https://github.com/FarnooshMemari/ai-xai-decathlon) | Explainable-AI lab comparing LIME, SHAP, Grad-CAM and more |
 
-<a href="https://github.com/FarnooshMemari/ds-hospital-mergers-did"><b>ds-hospital-mergers-did</b></a><br><sub>Hospital mergers and costs: difference-in-differences</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ds-opioid-policy-evaluation"><b>ds-opioid-policy-evaluation</b></a><br><sub>Evaluating Florida and Washington opioid policies</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ds-credit-risk-vasicek"><b>ds-credit-risk-vasicek</b></a><br><sub>Credit portfolio risk with Vasicek and Monte Carlo</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ds-gold-silver-spillover"><b>ds-gold-silver-spillover</b></a><br><sub>Do big silver moves spill over into gold?</sub>
+**Machine Learning**
 
-</td>
-</tr>
-</table>
+| Project | Description |
+| --- | --- |
+| [ml-ads-ranking-ctr](https://github.com/FarnooshMemari/ml-ads-ranking-ctr) | Personalized ads ranking with cold-start retrieval and CTR prediction |
+| [ml-bank-marketing-prediction](https://github.com/FarnooshMemari/ml-bank-marketing-prediction) | Term-deposit subscription prediction with calibrated LightGBM |
+| [ml-chd-prediction-fuzzy-logic](https://github.com/FarnooshMemari/ml-chd-prediction-fuzzy-logic) | Heart disease prediction with decision trees and fuzzy logic |
+| [ml-factor-analysis-automation](https://github.com/FarnooshMemari/ml-factor-analysis-automation) | Automated EFA/CFA factor analysis for survey data |
 
-<table>
-<tr>
-<th width="50%">Machine Learning</th>
-<th width="50%">NLP</th>
-</tr>
-<tr>
-<td valign="top" width="50%">
+**NLP**
 
-<a href="https://github.com/FarnooshMemari/ml-ads-ranking-ctr"><b>ml-ads-ranking-ctr</b></a><br><sub>Ads ranking with cold-start retrieval and CTR prediction</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ml-bank-marketing-prediction"><b>ml-bank-marketing-prediction</b></a><br><sub>Subscription prediction with calibrated LightGBM</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ml-chd-prediction-fuzzy-logic"><b>ml-chd-prediction-fuzzy-logic</b></a><br><sub>Heart disease prediction with decision trees and fuzzy logic</sub><br><br>
-<a href="https://github.com/FarnooshMemari/ml-factor-analysis-automation"><b>ml-factor-analysis-automation</b></a><br><sub>Automated EFA/CFA factor analysis for surveys</sub>
-
-</td>
-<td valign="top" width="50%">
-
-<a href="https://github.com/FarnooshMemari/nlp-equity-public-health-discourse"><b>nlp-equity-public-health-discourse</b></a><br><sub>How "equity" differs across public health texts</sub><br><br>
-<a href="https://github.com/FarnooshMemari/nlp-bitcoin-reddit-sentiment"><b>nlp-bitcoin-reddit-sentiment</b></a><br><sub>Bitcoin Reddit sentiment and time series</sub>
-
-</td>
-</tr>
-</table>
+| Project | Description |
+| --- | --- |
+| [nlp-equity-public-health-discourse](https://github.com/FarnooshMemari/nlp-equity-public-health-discourse) | How "equity" differs across academic, policy, NGO, and news texts |
+| [nlp-bitcoin-reddit-sentiment](https://github.com/FarnooshMemari/nlp-bitcoin-reddit-sentiment) | Bitcoin Reddit sentiment analysis with NLP and time series |
 
 **Python Fundamentals**
 
