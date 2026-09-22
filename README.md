@@ -5,7 +5,7 @@
 **About me**
 
 - I'm a data science grad student at Duke (MIDS), finishing in 2027. I love building things end to end: getting messy data in, making it reliable, and turning it into models and tools people actually use.
-- This summer I was a Data Engineer Intern at apexanalytix, where I built large-scale data pipelines and used AI agents to help test and review code.
+- This summer I was an AI/Data Engineer at apexanalytix, where I built large-scale data pipelines and used AI agents to help test and review code.
 - Before Duke, I spent about three years as a data analyst and earned a master's in IT Management, where I also helped teach AI and statistics classes.
 - Right now I'm a teaching assistant at Duke and working on my capstone with BNY's AI Hub, building a multi-agent AI system for portfolio decisions.
 - This GitHub is a mix of class projects, team projects, and things I built on my own to learn. My favorites are pinned below.
