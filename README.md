@@ -4,9 +4,12 @@
 
 **About me**
 
-- I'm a graduate student at Duke University working across data engineering, machine learning, NLP, and AI.
-- My GitHub collects projects I've built for coursework, with teammates, and on my own, from streaming pipelines and ads ranking to text analysis and causal inference.
-- My favorite projects are pinned below. Older homework repos are archived but still public.
+- I'm a data science grad student at Duke (MIDS), finishing in 2027. I love building things end to end: getting messy data in, making it reliable, and turning it into models and tools people actually use.
+- This summer I was a Data Engineer Intern at apexanalytix, where I built large-scale data pipelines and used AI agents to help test and review code.
+- Before Duke, I spent about three years as a data analyst and earned a master's in IT Management, where I also helped teach AI and statistics classes.
+- Right now I'm a teaching assistant at Duke and working on my capstone with BNY's AI Hub, building a multi-agent AI system for portfolio decisions.
+- This GitHub is a mix of class projects, team projects, and things I built on my own to learn. My favorites are pinned below.
+- The best way to reach me is at <farnoosh.memari@duke.edu> or on [LinkedIn](https://www.linkedin.com/in/farnoosh-memari).
 
 ---
 
@@ -67,11 +70,11 @@
 
 | Capability | Details |
 | --- | --- |
-| Languages | Python · SQL · R |
-| Data Engineering | ETL pipelines · Batch and stream processing · Apache Spark (PySpark, Databricks) · Kafka · Airflow · PostgreSQL · SQLite |
-| Software Engineering | Git · GitHub Actions CI · Unit testing (pytest) · Docker · Dev Containers · Linting and formatting |
-| Machine Learning | Classification · Ranking and CTR prediction · Anomaly detection · Model calibration · Feature engineering · scikit-learn · LightGBM |
-| NLP & Text Analysis | Sentiment analysis · TF-IDF · Regularized text classification · Corpus analysis |
-| AI | Explainable AI (LIME, SHAP, Grad-CAM) · LLM-powered pipelines |
-| Statistics & Econometrics | Difference-in-differences · Event studies · Factor analysis (EFA/CFA) · Monte Carlo simulation |
-| Cloud & Apps | AWS · Flask · Streamlit · Tkinter · PySimpleGUI |
+| Languages | Python · SQL · R · Bash |
+| Data Engineering | ETL pipelines · Batch and stream processing · Spark/PySpark · Kafka · Airflow · Dagster · SQL Server · PostgreSQL · Apache Doris · Parquet |
+| Cloud & DevOps | AWS (S3, Glue, RDS, EC2, ECR) · Docker · Kubernetes · Helm · GitHub Actions · CI/CD |
+| Machine Learning | Classification · Ranking and CTR prediction · Recommendation systems · Calibration and threshold tuning · Feature engineering · scikit-learn · LightGBM |
+| AI Engineering | Agentic AI workflows · LLM tool calling · Embeddings and vector search · FastAPI |
+| NLP | Named entity recognition (spaCy) · Sentiment analysis · TF-IDF · Text classification |
+| Statistics & Econometrics | Difference-in-differences · Event studies · Time series (VECM, SVAR) · Monte Carlo simulation · Factor analysis |
+| Visualization | Tableau · Power BI · Streamlit |
