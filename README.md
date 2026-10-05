@@ -9,7 +9,7 @@
 - Before Duke, I spent about three years as a data analyst and earned a master's in IT Management, where I also helped teach AI and statistics classes.
 - Right now I'm a teaching assistant at Duke and working on my capstone with BNY's AI Hub, building a multi-agent AI system for portfolio decisions.
 - This GitHub is a mix of class projects, team projects, and things I built on my own to learn. My favorites are pinned below.
-- The best way to reach me is at <farnoosh.memari@duke.edu> or on [LinkedIn](https://www.linkedin.com/in/farnoosh-memari).
+- The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/farnoosh-memari).
 
 ---
 
