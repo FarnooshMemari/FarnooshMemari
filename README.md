@@ -28,6 +28,7 @@
 
 | Project | Description |
 | --- | --- |
+| [shelfcast](https://github.com/FarnooshMemari/shelfcast) | Restock planner for a small online shop: Snowflake SQL, a PyTorch demand forecast, and a Streamlit app (ForgeHacks 2026) |
 | [ds-hospital-mergers-did](https://github.com/FarnooshMemari/ds-hospital-mergers-did) | Hospital mergers and costs: a staggered difference-in-differences study |
 | [ds-opioid-policy-evaluation](https://github.com/FarnooshMemari/ds-opioid-policy-evaluation) | Evaluating Florida and Washington opioid prescription policies |
 | [ds-credit-risk-vasicek](https://github.com/FarnooshMemari/ds-credit-risk-vasicek) | Credit card portfolio risk with the Vasicek model and Monte Carlo simulation |
@@ -44,6 +45,7 @@
 
 | Project | Description |
 | --- | --- |
+| [solar-filament-segmentation](https://github.com/FarnooshMemari/solar-filament-segmentation) | PyTorch U-Net that finds solar filaments in full-disk H-alpha images (Kaggle / IEEE BigData Cup 2026) |
 | [ml-ads-ranking-ctr](https://github.com/FarnooshMemari/ml-ads-ranking-ctr) | Personalized ads ranking with cold-start retrieval and CTR prediction |
 | [ml-bank-marketing-prediction](https://github.com/FarnooshMemari/ml-bank-marketing-prediction) | Term-deposit subscription prediction with calibrated LightGBM |
 | [ml-chd-prediction-fuzzy-logic](https://github.com/FarnooshMemari/ml-chd-prediction-fuzzy-logic) | Heart disease prediction with decision trees and fuzzy logic |
@@ -71,9 +73,9 @@
 | Capability | Details |
 | --- | --- |
 | Languages | Python · SQL · R · Bash |
-| Data Engineering | ETL pipelines · Batch and stream processing · Spark/PySpark · Kafka · Airflow · Dagster · SQL Server · PostgreSQL · Apache Doris · Parquet |
+| Data Engineering | ETL pipelines · Batch and stream processing · Spark/PySpark · Kafka · Airflow · Dagster · SQL Server · PostgreSQL · Snowflake · Apache Doris · Parquet |
 | Cloud & DevOps | AWS (S3, Glue, RDS, EC2, ECR) · Docker · Kubernetes · Helm · GitHub Actions · CI/CD |
-| Machine Learning | Classification · Ranking and CTR prediction · Recommendation systems · Calibration and threshold tuning · Feature engineering · scikit-learn · LightGBM |
+| Machine Learning | Classification · Ranking and CTR prediction · Recommendation systems · Demand forecasting · Image segmentation · Calibration and threshold tuning · Feature engineering · PyTorch · scikit-learn · LightGBM |
 | AI Engineering | Agentic AI workflows · LLM tool calling · Embeddings and vector search · FastAPI |
 | NLP | Named entity recognition (spaCy) · Sentiment analysis · TF-IDF · Text classification |
 | Statistics & Econometrics | Difference-in-differences · Event studies · Time series (VECM, SVAR) · Monte Carlo simulation · Factor analysis |
